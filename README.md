@@ -3,7 +3,7 @@
 
 Installation
 ```
-git clone https://github.com/anish-chapagai/WordListGenerator.git
+git clone https://github.com/needl3/WordListGenerator.git
 ```
 Run Script
 ```
